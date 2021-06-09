@@ -1,0 +1,176 @@
+Uri: https://time-clock-max.netlify.app/
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://time-clock-max.netlify.app/img/logo — копия.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\logo — копия.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/css/style.css
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\css\style.css
+Content Type: text/css
+
+Uri: https://time-clock-max.netlify.app/css/jquery.fancybox.min.css
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\css2.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\ajax\libs\OwlCarousel2\2.3.4\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://time-clock-max.netlify.app/img/geneva.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\geneva.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/2.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/3.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/4.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/5.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\5.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/6.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/7.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/8.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\8.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/9.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\9.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/logo.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/inst-icon (1).svg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\inst-icon (1).svg
+Content Type: image/svg+xml
+
+Uri: https://time-clock-max.netlify.app/img/inst-icon (2).svg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\inst-icon (2).svg
+Content Type: image/svg+xml
+
+Uri: https://time-clock-max.netlify.app/img/inst-icon (3).svg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\inst-icon (3).svg
+Content Type: image/svg+xml
+
+Uri: https://time-clock-max.netlify.app/img/about-us.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\about-us.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/copier.svg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\copier.svg
+Content Type: image/svg+xml
+
+Uri: https://time-clock-max.netlify.app/img/smartphone-1.svg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\smartphone-1.svg
+Content Type: image/svg+xml
+
+Uri: https://time-clock-max.netlify.app/img/adding-machine.svg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\adding-machine.svg
+Content Type: image/svg+xml
+
+Uri: https://time-clock-max.netlify.app/img/briefcase.svg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\briefcase.svg
+Content Type: image/svg+xml
+
+Uri: https://time-clock-max.netlify.app/img/vasuy,.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\vasuy,.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/miha.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\miha.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/taras.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\taras.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/igor.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\igor.jpg
+Content Type: image/jpeg
+
+Uri: https://time-clock-max.netlify.app/img/cash.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\cash.jpg
+Content Type: image/jpeg
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:02d7519787fc4696218038bdf09dee3d07c79a5fd8e00ebc9bea4a69f97be5cb&width=470&height=400&lang=ru_RU&scroll=true
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\services\constructor\1.0\js\index.htm.js
+Content Type: application/javascript
+
+Uri: https://time-clock-max.netlify.app/script/script.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\script\script.js
+Content Type: application/javascript
+
+Uri: https://time-clock-max.netlify.app/script/jquery.fancybox.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\script\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\npm\jquery@3.5.1\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\ajax\libs\jquery\1.12.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\ajax\libs\jquery\3.1.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://time-clock-max.netlify.app/img/main-fon2.jpg
+File Name: C:\Users\Максим\Downloads\time-clock-max.netlify.app\img\main-fon2.jpg
+Content Type: image/jpeg
+
